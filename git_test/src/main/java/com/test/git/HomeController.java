@@ -35,6 +35,7 @@ public class HomeController {
 		System.out.println("world hello");
 		System.out.println("hello git");
 		System.out.println("hello git2");
+		System.out.println("hello git3");
 		return "home";
 	}
 	
